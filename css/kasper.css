@@ -952,11 +952,11 @@ ul {
     margin-left: auto;
     border: none;
     text-transform: uppercase;
+    border: 1px solid var(--main-color);
     transition: .3s;
 }
 .contact .content form input[type="submit"]:hover {
     background-color: white;
-    border: 1px solid var(--main-color);
     color: var(--main-color);
     cursor: pointer;
 }
