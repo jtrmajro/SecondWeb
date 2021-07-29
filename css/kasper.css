@@ -822,12 +822,12 @@ ul {
     text-decoration: none;
     background: var(--main-color);
     color: white;
+    border: 1px solid var(--main-color);
     padding: 15px 30px;
     transition: .5s;
 }
 .pricing .contact-link:hover {
     background: white;
-    border: 1px solid var(--main-color);
     color: var(--main-color);
 }
 /* End Pricing */
